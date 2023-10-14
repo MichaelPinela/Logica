@@ -2,7 +2,7 @@ Algoritmo tarea
 	//ejercicio33
 	//ejercicio34
 	//ejercicio35
-	ejercicio36_37_38_39
+	//ejercicio36_37_38_39
 	//ejercicio40
 FinAlgoritmo
 

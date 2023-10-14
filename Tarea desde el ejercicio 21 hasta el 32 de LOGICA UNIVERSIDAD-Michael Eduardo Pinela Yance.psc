@@ -109,7 +109,7 @@ Funcion ejercicio22
             Si dia >= 22 Entonces;
                 signo <- "Capricornio";
             Sino
-//                signo <- "Sagitario";
+                signo <- "Sagitario;
             Fin Si
     Fin Segun
     Escribir "Su signo zodiacal es:", signo;
